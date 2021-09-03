@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(13, 200, 233);
+}
+#a{
+    color:rgb(12, 11, 12);
+}
+#cars{
+    background-color: grey;
+    border-width: 50%;
+    border-style: ridge;
+    border-color: black;
+}
